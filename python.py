@@ -5,4 +5,4 @@ for letra in palabra:
         contador+=1
 print(f"la palabra '{palabra}' tiene {contador} vocales")
 
-print("no se que mas poner")
+print("no se que mas")
